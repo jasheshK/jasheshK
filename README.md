@@ -19,3 +19,7 @@
   - Languages: Python 🐍
   - Modules & Libraries: Numpy, Pandas, Streamlit.
   - Tools & Platforms: VS Code, Git, and GitHub.
+📫 How to Reach Me
+- Email: jashesh1803@gmail.com
+- LinkedIn: www.linkedin.com/in/jashesh-kanzariya/
+
