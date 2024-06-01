@@ -22,5 +22,3 @@
   
 - 📫 How to Reach Me
   - Email: jashesh1803@gmail.com
-  - LinkedIn: www.linkedin.com/in/jashesh-kanzariya/
-
