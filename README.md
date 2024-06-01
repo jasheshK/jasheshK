@@ -16,6 +16,6 @@
 - ⚡ Fun fact **I love weird World Maps**
 
 - 💻 Tech Stack & Tools
-  Languages: Python 🐍
-  Modules & Libraries: Numpy, Pandas, Streamlit.
-  Tools & Platforms: VS Code, Git, and GitHub.
+- Languages: Python 🐍
+- Modules & Libraries: Numpy, Pandas, Streamlit.
+- Tools & Platforms: VS Code, Git, and GitHub.
