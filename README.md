@@ -14,3 +14,8 @@
 - 📫 How to reach me **https://www.linkedin.com/in/jashesh-kanzariya/**
 
 - ⚡ Fun fact **I love weird World Maps**
+
+- 💻 Tech Stack & Tools
+  Languages: Python 🐍
+  Modules & Libraries: Numpy, Pandas, Streamlit.
+  Tools & Platforms: VS Code, Git, and GitHub.
