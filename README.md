@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jasheshK](https://github.com/jasheshK)
 
-- 📝 I regularly write articles on [https://hashnode.com/@botjash](https://hashnode.com/@botjash)
+- 📝 I  write articles on [https://hashnode.com/@botjash](https://hashnode.com/@botjash)
 
 - 📫 How to reach me **https://www.linkedin.com/in/jashesh-kanzariya/**
 
 - ⚡ Fun fact **I love weird World Maps**
 
 - 💻 Tech Stack & Tools
-- Languages: Python 🐍
-- Modules & Libraries: Numpy, Pandas, Streamlit.
-- Tools & Platforms: VS Code, Git, and GitHub.
+  - Languages: Python 🐍
+  - Modules & Libraries: Numpy, Pandas, Streamlit.
+  - Tools & Platforms: VS Code, Git, and GitHub.
